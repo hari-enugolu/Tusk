@@ -2,5 +2,9 @@ Welcome to kitchen
 kheer
 pasta
 pulihora
+beans
+pizza
+
+
 
 thank you
